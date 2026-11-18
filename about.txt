@@ -1,0 +1,7 @@
+Student Portfolio 
+
+Name = Your Name 
+Course = B.tech CSE 
+College = Shoolini university 
+
+I am learning Git and Github.
